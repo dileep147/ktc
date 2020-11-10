@@ -1,0 +1,67 @@
+<?php
+require_once __DIR__ . '/../../util/validate_login.php';
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> KTC POS </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/pos/bootstrap.min.css">
+  <script src="css/pos/jquery.min.js"></script>
+  <script src="css/pos/bootstrap.min.js"></script>
+  <style media="screen">
+    body{
+      font-weight:700;
+      background-color: #ecf0f1;
+
+    }
+    #product-section{
+      background-color: #34495e;
+      box-shadow: 5px 5px 10px #888888;
+      text-align:center;
+      color:white;
+      text-transform: uppercase;
+      min-height:500px;
+    }
+    #info-bar{
+      background-color: #34495e;
+      box-shadow: 5px 5px 10px #888888;
+      color:white;
+      text-transform: uppercase;
+      padding-top:10px;
+      margin-bottom: 10px;
+      margin-top:20px;
+    }
+    #grid-section{
+      background-color: #34495e;
+      box-shadow: 5px 5px 10px #888888;
+      color:white;
+      padding-top:20px;
+      padding-bottom:20px;
+      min-height:500px;
+    }
+    #bottom-section{
+      background-color: #34495e;
+      box-shadow: 5px 5px 10px #888888;
+      color:white;
+      padding-top:20px;
+      padding-bottom:20px;
+      margin-top:20px;
+    }
+    .grid-table{
+      background-color: #ecf0f1;
+      color:black;
+      height:400px;
+    }
+    .touch-button{
+      padding-top:30px;
+      padding-bottom:30px;
+    }
+    .modal-content{
+      color:black;
+    }
+  </style>
+</head>
+<?php date_default_timezone_set("Asia/Singapore"); ?>

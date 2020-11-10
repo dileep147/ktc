@@ -1,0 +1,11 @@
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_mfd in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 63
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Notice:  Undefined index: b_exp in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 64
+[16-Jan-2018 19:15:42 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
+[16-Jan-2018 19:16:29 Asia/Colombo] PHP Fatal error:  Cannot use object of type Batch as array in /home3/t0a4i1u3/public_html/Systems/prabhanifoods.com/production/proccess/production_grn_proccess.php on line 97
+[06-Sep-2020 08:41:55 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 09:19:02 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 16:57:10 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 18:13:05 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 18:33:24 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 18:55:48 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
+[06-Sep-2020 21:00:38 Asia/Colombo] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home4/l99thpjs/Websys/ktc/pos/util/functions.php on line 229
